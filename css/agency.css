@@ -23,6 +23,9 @@ body {
   text-align: justify;
   max-width: 800px;
 }
+.heading-space {
+  margin-bottom: 80px;
+}
 p {
   font-size: 14px;
   line-height: 1.75;
