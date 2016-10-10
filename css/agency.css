@@ -23,9 +23,6 @@ body {
   text-align: justify;
   max-width: 800px;
 }
-.heading-space {
-  margin-bottom: 80px;
-}
 p {
   font-size: 14px;
   line-height: 1.75;
@@ -296,7 +293,7 @@ section {
 section h2.section-heading {
   font-size: 40px;
   margin-top: 0;
-  margin-bottom: 15px;
+  margin-bottom: 35px;
 }
 section h3.section-subheading {
   font-size: 16px;
