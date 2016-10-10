@@ -2096,12 +2096,6 @@ pre code {
   }
   .col-lg-12 {
     width: 100%;
-    max-width: 800px;
-    float: clear;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: auto;
-    padding-right: auto;
   }
   .col-lg-11 {
     width: 91.66666667%;
