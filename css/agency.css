@@ -13,8 +13,9 @@ body {
 .text-primary {
   color: #778899;
 }
-.text-justify {
+.text-block {
   text-align: justify;
+  max-width: 800px;
 }
 p {
   font-size: 14px;
