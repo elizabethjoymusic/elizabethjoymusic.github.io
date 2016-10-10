@@ -315,8 +315,11 @@ section h3.section-subheading {
   margin: 15px 0;
   text-transform: none;
 }
+.occasion-item {
+  margin-bottom: 0px;
+}
 #portfolio .portfolio-item {
-  margin: 0 0 15px;
+  margin: 0 0 0px;
   right: 0;
 }
 #portfolio .portfolio-item .portfolio-link {
