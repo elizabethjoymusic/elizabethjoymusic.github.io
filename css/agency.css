@@ -280,7 +280,7 @@ header .intro-text .intro-heading {
   }
   header .intro-text .intro-lead-in {
     font-family: "Cinzel", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-style: italic;
+    font-style: normal;
     font-size: 60px;
     line-height: 40px;
     margin-bottom: 25px;
