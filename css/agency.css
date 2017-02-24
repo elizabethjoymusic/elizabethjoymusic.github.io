@@ -169,6 +169,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-brand {
   color: #778899;
   font-family: 'Cinzel', serif;
+  visibility: "hidden";
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -197,6 +198,7 @@ fieldset[disabled] .btn-xl.active {
   font-weight: 400;
   letter-spacing: 1px;
   color: gray;
+  font-size: 17px;
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
@@ -258,8 +260,8 @@ header .intro-text {
   padding-bottom: 50px;
 }
 header .intro-text .intro-lead-in {
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-style: italic;
+  font-family: "Cinzel", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: normal;
   font-size: 20px;
   line-height: 20px;
   margin-bottom: 25px;
@@ -280,7 +282,7 @@ header .intro-text .intro-heading {
   header .intro-text .intro-lead-in {
     font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
-    font-size: 36px;
+    font-size: 60px;
     line-height: 40px;
     margin-bottom: 25px;
   }
@@ -288,7 +290,7 @@ header .intro-text .intro-heading {
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: normal;
-    font-size: 66px;
+    font-size: 23px;
     line-height: 75px;
     margin-bottom: 50px;
   }
