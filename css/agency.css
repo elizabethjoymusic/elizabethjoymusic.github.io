@@ -123,7 +123,7 @@ fieldset[disabled] .btn-primary.active {
   border-color: #778899;
   font-family: "Montserrat", "Helvetica Neue","Cinzel", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: normal;
   border-radius: 3px;
   font-size: 18px;
   padding: 20px 40px;
@@ -377,6 +377,9 @@ section h3.section-subheading {
   text-transform: none;
   margin: 0;
   color: black;
+  font-family: "Cinzel", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-size: 36px;
 }
 #portfolio .portfolio-item .portfolio-caption p {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
