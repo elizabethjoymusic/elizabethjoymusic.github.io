@@ -24,6 +24,8 @@ a:visited {
 }
 #about h2.intro-text {
   margin-bottom: 35px;
+  font-family: "Cinzel", "Montserrat", "Helvetica Neue","Cinzel", Helvetica, Arial, sans-serif;
+  font-weight: normal;
 }
 .text-block {
   text-align: justify;
@@ -298,9 +300,11 @@ section {
   padding: 70px 0;
 }
 section h2.section-heading {
-  font-size: 40px;
+  font-size: 32px;
   margin-top: 0;
   margin-bottom: 35px;
+  font-family: "Cinzel", "Montserrat", "Helvetica Neue","Cinzel", Helvetica, Arial, sans-serif;
+  font-weight: normal;
 }
 section h3.section-subheading {
   font-size: 16px;
@@ -404,6 +408,8 @@ section#contact {
 section#contact .section-heading {
   color: white;
   margin-bottom: 15px;
+  font-family: "Cinzel", "Montserrat", "Helvetica Neue","Cinzel", Helvetica, Arial, sans-serif;
+  font-weight: normal;
 }
 section#contact .form-group {
   margin-bottom: 25px;
